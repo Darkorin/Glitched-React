@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.85c2aad7.chunk.css",
-    "main.js": "/static/js/main.6bdad8bd.chunk.js",
-    "main.js.map": "/static/js/main.6bdad8bd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b1827233.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b1827233.js.map",
-    "static/js/2.c397d72b.chunk.js": "/static/js/2.c397d72b.chunk.js",
-    "static/js/2.c397d72b.chunk.js.map": "/static/js/2.c397d72b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6944c34b9a22de0ae7de0fd37450628a.js": "/precache-manifest.6944c34b9a22de0ae7de0fd37450628a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.85c2aad7.chunk.css.map": "/static/css/main.85c2aad7.chunk.css.map",
-    "static/js/2.c397d72b.chunk.js.LICENSE.txt": "/static/js/2.c397d72b.chunk.js.LICENSE.txt",
-    "static/media/anna.jpg": "/static/media/anna.b78dbcbe.jpg",
-    "static/media/homepage.scss": "/static/media/background.5e56a067.png",
-    "static/media/default-av.svg": "/static/media/default-av.2c1d3e9b.svg",
-    "static/media/errorpage.svg": "/static/media/errorpage.72b409fa.svg",
-    "static/media/glitched-logo.svg": "/static/media/glitched-logo.8a631c25.svg"
+    "main.css": "/Glitched-React/static/css/main.ae6b566f.chunk.css",
+    "main.js": "/Glitched-React/static/js/main.87a1a535.chunk.js",
+    "main.js.map": "/Glitched-React/static/js/main.87a1a535.chunk.js.map",
+    "runtime-main.js": "/Glitched-React/static/js/runtime-main.9e2d77bd.js",
+    "runtime-main.js.map": "/Glitched-React/static/js/runtime-main.9e2d77bd.js.map",
+    "static/js/2.3f93bf16.chunk.js": "/Glitched-React/static/js/2.3f93bf16.chunk.js",
+    "static/js/2.3f93bf16.chunk.js.map": "/Glitched-React/static/js/2.3f93bf16.chunk.js.map",
+    "index.html": "/Glitched-React/index.html",
+    "precache-manifest.195bc62ee579ff361e1911212ccad7e9.js": "/Glitched-React/precache-manifest.195bc62ee579ff361e1911212ccad7e9.js",
+    "service-worker.js": "/Glitched-React/service-worker.js",
+    "static/css/main.ae6b566f.chunk.css.map": "/Glitched-React/static/css/main.ae6b566f.chunk.css.map",
+    "static/js/2.3f93bf16.chunk.js.LICENSE.txt": "/Glitched-React/static/js/2.3f93bf16.chunk.js.LICENSE.txt",
+    "static/media/anna.jpg": "/Glitched-React/static/media/anna.b78dbcbe.jpg",
+    "static/media/homepage.scss": "/Glitched-React/static/media/background.5e56a067.png",
+    "static/media/default-av.svg": "/Glitched-React/static/media/default-av.2c1d3e9b.svg",
+    "static/media/errorpage.svg": "/Glitched-React/static/media/errorpage.72b409fa.svg",
+    "static/media/glitched-logo.svg": "/Glitched-React/static/media/glitched-logo.8a631c25.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b1827233.js",
-    "static/js/2.c397d72b.chunk.js",
-    "static/css/main.85c2aad7.chunk.css",
-    "static/js/main.6bdad8bd.chunk.js"
+    "static/js/runtime-main.9e2d77bd.js",
+    "static/js/2.3f93bf16.chunk.js",
+    "static/css/main.ae6b566f.chunk.css",
+    "static/js/main.87a1a535.chunk.js"
   ]
 }
