@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Glitched-React/precache-manifest.195bc62ee579ff361e1911212ccad7e9.js"
+  "/Glitched-React/precache-manifest.4facedbdf14d3de784fecc423cd9f0c8.js"
 );
 
 self.addEventListener('message', (event) => {

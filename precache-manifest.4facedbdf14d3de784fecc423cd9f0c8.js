@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "402dbdc816ad8889cd999ff0dffb815c",
+    "revision": "6b8c23b2e1931ec0cb5710fb5b69bbee",
     "url": "/Glitched-React/index.html"
   },
   {
-    "revision": "ae621f66243833c28eed",
+    "revision": "be54bb01e8312ab92915",
     "url": "/Glitched-React/static/css/main.ae6b566f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Glitched-React/static/js/2.3f93bf16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae621f66243833c28eed",
-    "url": "/Glitched-React/static/js/main.87a1a535.chunk.js"
+    "revision": "be54bb01e8312ab92915",
+    "url": "/Glitched-React/static/js/main.a12276e0.chunk.js"
   },
   {
     "revision": "ae2853b2467f4a1fab22",

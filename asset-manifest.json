@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Glitched-React/static/css/main.ae6b566f.chunk.css",
-    "main.js": "/Glitched-React/static/js/main.87a1a535.chunk.js",
-    "main.js.map": "/Glitched-React/static/js/main.87a1a535.chunk.js.map",
+    "main.js": "/Glitched-React/static/js/main.a12276e0.chunk.js",
+    "main.js.map": "/Glitched-React/static/js/main.a12276e0.chunk.js.map",
     "runtime-main.js": "/Glitched-React/static/js/runtime-main.9e2d77bd.js",
     "runtime-main.js.map": "/Glitched-React/static/js/runtime-main.9e2d77bd.js.map",
     "static/js/2.3f93bf16.chunk.js": "/Glitched-React/static/js/2.3f93bf16.chunk.js",
     "static/js/2.3f93bf16.chunk.js.map": "/Glitched-React/static/js/2.3f93bf16.chunk.js.map",
     "index.html": "/Glitched-React/index.html",
-    "precache-manifest.195bc62ee579ff361e1911212ccad7e9.js": "/Glitched-React/precache-manifest.195bc62ee579ff361e1911212ccad7e9.js",
+    "precache-manifest.4facedbdf14d3de784fecc423cd9f0c8.js": "/Glitched-React/precache-manifest.4facedbdf14d3de784fecc423cd9f0c8.js",
     "service-worker.js": "/Glitched-React/service-worker.js",
     "static/css/main.ae6b566f.chunk.css.map": "/Glitched-React/static/css/main.ae6b566f.chunk.css.map",
     "static/js/2.3f93bf16.chunk.js.LICENSE.txt": "/Glitched-React/static/js/2.3f93bf16.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.9e2d77bd.js",
     "static/js/2.3f93bf16.chunk.js",
     "static/css/main.ae6b566f.chunk.css",
-    "static/js/main.87a1a535.chunk.js"
+    "static/js/main.a12276e0.chunk.js"
   ]
 }
